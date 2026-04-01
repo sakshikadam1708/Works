@@ -1,4 +1,4 @@
-# Works
+# sakshikadam1708
 Console chess game in C using 2D arrays — supports algebraic notation input like e2 e4 
 ## Features
 - 8x8 chess board display
